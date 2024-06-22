@@ -2,7 +2,9 @@
 
 ## Run first project
 - run command --> git clone https://github.com/TaTarZ4/gameXO-custom-laravel
-- edit file .env set you database
+- run Xampp
+- create Database
+- setup file .env
 - run command --> php artisan migrate
 - run command --> php artisan serve
 
